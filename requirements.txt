@@ -1,0 +1,13 @@
+# Proyecto 13 - HAR UCI. Python 3.12.10 (TensorFlow 2.21 soporta 3.10-3.13, NO 3.14).
+# Versiones verificadas en .venv el 2026-11-12.
+numpy==2.2.6
+pandas==2.3.3
+matplotlib==3.10.9
+scipy==1.15.3
+scikit-learn==1.9.1
+tensorflow==2.21.0
+keras==3.15.1
+wandb==0.31.0
+streamlit==1.67.0
+jupyter==1.1.1
+ipykernel==7.4.0

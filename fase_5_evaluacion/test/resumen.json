@@ -1,0 +1,17 @@
+{
+  "split": "TEST",
+  "n": 2947,
+  "accuracy": 0.9138106549032915,
+  "macro_f1": 0.9143703989617512,
+  "macro_precision": 0.914384362349392,
+  "macro_recall": 0.9157855624044524,
+  "conf_media_errores": 0.7894962430000305,
+  "conf_media_aciertos": 0.9453859329223633,
+  "top_pares_confusion": {
+    "STANDING->SITTING": 93,
+    "SITTING->STANDING": 41,
+    "LAYING->WALKING_UPSTAIRS": 27,
+    "WALKING_UPSTAIRS->WALKING": 21,
+    "SITTING->WALKING_UPSTAIRS": 20
+  }
+}

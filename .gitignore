@@ -1,0 +1,35 @@
+# Entorno y cachés locales
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos: el dataset UCI HAR se descarga aparte (ver README) y la caché .npz se regenera
+human+activity+recognition+using+smartphones/
+data_cache/
+
+# Registros locales de Weights & Biases (los runs están en el proyecto de W&B)
+wandb/
+
+# Modelos y escaladores por partición de la validación cruzada (respaldados como artefactos en W&B)
+fase_4_modelado/runs/
+
+# Salidas de pruebas de humo
+*_smoke.csv
+**/smoke/
+**/smoke_test/
+
+# Auxiliares de LaTeX
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

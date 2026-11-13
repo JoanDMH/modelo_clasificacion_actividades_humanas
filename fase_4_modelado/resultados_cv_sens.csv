@@ -1,0 +1,13 @@
+arch,seed,fold,accuracy,macro_f1,best_epoch,epochs_run,n_params,run_id,url
+lstm,42,0,0.8752310536044362,0.877275684278354,6,14,31558,lrt0i924,https://forge.coreweave.com/wandb/joan-martinez-universidad-de-los-llanos/clasificacion-actividades-humanas/runs/lrt0i924
+lstm,42,1,0.918293564714389,0.9196134268404276,8,16,31558,lnk8i6uk,https://forge.coreweave.com/wandb/joan-martinez-universidad-de-los-llanos/clasificacion-actividades-humanas/runs/lnk8i6uk
+lstm,43,0,0.9532418952618454,0.9553713518031719,24,32,31558,j26q2msm,https://forge.coreweave.com/wandb/joan-martinez-universidad-de-los-llanos/clasificacion-actividades-humanas/runs/j26q2msm
+lstm,43,1,0.869472182596291,0.8740554525567558,19,27,31558,33g9v2fm,https://forge.coreweave.com/wandb/joan-martinez-universidad-de-los-llanos/clasificacion-actividades-humanas/runs/33g9v2fm
+lstm,44,0,0.8910518053375196,0.8918208780810352,10,18,31558,bfh6580c,https://forge.coreweave.com/wandb/joan-martinez-universidad-de-los-llanos/clasificacion-actividades-humanas/runs/bfh6580c
+lstm,44,1,0.939158118146445,0.9411297650462767,4,12,31558,44lqqvue,https://forge.coreweave.com/wandb/joan-martinez-universidad-de-los-llanos/clasificacion-actividades-humanas/runs/44lqqvue
+conv_lstm,42,0,0.9232902033271719,0.9254184551458128,4,12,56902,bhrn2med,https://forge.coreweave.com/wandb/joan-martinez-universidad-de-los-llanos/clasificacion-actividades-humanas/runs/bhrn2med
+conv_lstm,42,1,0.9201012292118583,0.9218683422895344,3,11,56902,oxnko1fj,https://forge.coreweave.com/wandb/joan-martinez-universidad-de-los-llanos/clasificacion-actividades-humanas/runs/oxnko1fj
+conv_lstm,43,0,0.9404613466334164,0.944716264839157,21,29,56902,nhgtcjts,https://forge.coreweave.com/wandb/joan-martinez-universidad-de-los-llanos/clasificacion-actividades-humanas/runs/nhgtcjts
+conv_lstm,43,1,0.8812410841654779,0.8842261940434795,4,12,56902,hfax76ib,https://forge.coreweave.com/wandb/joan-martinez-universidad-de-los-llanos/clasificacion-actividades-humanas/runs/hfax76ib
+conv_lstm,44,0,0.9032967032967033,0.9066678564778599,20,28,56902,uxxjkahv,https://forge.coreweave.com/wandb/joan-martinez-universidad-de-los-llanos/clasificacion-actividades-humanas/runs/uxxjkahv
+conv_lstm,44,1,0.9501238061549345,0.9524509141321218,9,17,56902,hywdyn8n,https://forge.coreweave.com/wandb/joan-martinez-universidad-de-los-llanos/clasificacion-actividades-humanas/runs/hywdyn8n
